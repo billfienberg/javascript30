@@ -24,6 +24,6 @@ module.exports = {
     'jsx-a11y/click-events-have-key-events': 'off',
   },
   globals: {
-    __REACT_HOT_LOADER__: true,
+    document: true,
   },
 }
