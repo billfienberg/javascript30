@@ -4,7 +4,6 @@ node_modules/
 dist/
 package.json
 babel.js
-index.js
 patch.js
 rollup.config.js
 CHANGELOG.md
